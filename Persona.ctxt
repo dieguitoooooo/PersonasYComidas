@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Esta\ clase\ simula\ la\ ingesta\ de\ alimentos\ de\ una\ persona.\r\n\r\n\ @author\ Diego\ Antonio\ Almonte\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ sexo\ peso\ altura\ edad
+comment1.target=Persona(java.lang.String,\ boolean,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ para\ los\ objectos\ de\ la\ clase\ Persona\r\n
+comment2.params=comer
+comment2.target=int\ comer(Comida)
+comment2.text=\r\n\ Metodo\ que\ devuelve\ la\ cantidad\ de\ calorias\ que\ tiene\ el\ alimento\ que\r\n\ ha\ consumido\ y\ aparece\ mensaje\ de\ error\ si\ \ la\ ingesta\ de\ calorias\ \r\n\ supera\ el\ metabolismo\ basal\ de\ la\ persona.\r\n\r\n\ @param\ \ Recibe\ por\ parametro\ un\ objecto\ de\ tipo\ comida\r\n\ @return\ \ \ Devuelve\ la\ cantidad\ de\ calorias\ que\ tiene\ el\ alimento\ que\r\n\ ha\ consumido\ esta\ persona\r\n
+comment3.params=
+comment3.target=int\ getCaloriasIngeridas()
+comment3.text=\r\n\ Metodo\ Que\ devuelve\ la\ cantidad\ de\ calorias\ ingeridas\ hasta\ el\ momento\r\n\ @param\ No\ recibe\ nada\ por\ parametro\r\n\ @return\ Devuelve\ un\ entero\ con\ la\ cantidad\ de\ calorias\ consumidas\r\n
+numComments=4

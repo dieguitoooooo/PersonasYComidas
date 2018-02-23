@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Comida
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Comida\ here.\r\n\r\n\ @author\ Diego\ Antonio\ Almonte\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ calorias
+comment1.target=Comida(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Comida\r\n
+comment2.params=
+comment2.target=int\ getCalorias()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ M\u00E9todo\ que\ no\ resive\ parametros\r\n\ @return\ \ Devuelve\ las\ calorias\ del\ alimento\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment3.text=\r\n\ @param\ M\u00E9todo\ que\ no\ recibe\ parametros\r\n\ @return\ Devuelve\ el\ nombre\ del\ alimento\r\n
+numComments=4
